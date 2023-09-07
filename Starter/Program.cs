@@ -133,6 +133,7 @@ do
             // #1 Display all dogs with a multiple search characteristics
 
             string dogCharacteristic = "";
+            string[] dogCharacteristicsArray;
 
             while (dogCharacteristic == "")
             {
@@ -142,7 +143,7 @@ do
                 if (readResult != null)
                 {
                     dogCharacteristic = readResult.ToLower().Trim();
-                    String[] dogCharacteristicsArray = dogCharacteristic.Split(',');
+                    dogCharacteristicsArray = dogCharacteristic.Split(',');
                     Array.Sort(dogCharacteristicsArray);
                     Console.WriteLine();
                 }
