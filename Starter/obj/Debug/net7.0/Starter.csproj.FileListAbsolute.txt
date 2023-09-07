@@ -1,0 +1,15 @@
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\bin\Debug\net7.0\Starter.exe
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\bin\Debug\net7.0\Starter.deps.json
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\bin\Debug\net7.0\Starter.runtimeconfig.json
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\bin\Debug\net7.0\Starter.dll
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\bin\Debug\net7.0\Starter.pdb
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.csproj.AssemblyReference.cache
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.AssemblyInfoInputs.cache
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.AssemblyInfo.cs
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.csproj.CoreCompileInputs.cache
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.dll
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\refint\Starter.dll
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.pdb
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\Starter.genruntimeconfig.cache
+C:\Users\Krist\Documents\CsharpTest\MicroChallengePet\Starter\obj\Debug\net7.0\ref\Starter.dll
