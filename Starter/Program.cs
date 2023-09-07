@@ -136,12 +136,14 @@ do
 
             while (dogCharacteristic == "")
             {
-                // #2 have user enter multiple comma separated characteristics to search for
-                Console.WriteLine($"\r\nEnter one desired dog characteristic to search for");
+                // #2 have user enter multiple comma separated characteristics to search for DONE
+                Console.WriteLine($"\r\nEnter one or more desired dog characteristic to search for seperated by commas(example:\"large,brown,housebroken\")");
                 readResult = Console.ReadLine();
                 if (readResult != null)
                 {
                     dogCharacteristic = readResult.ToLower().Trim();
+                    String[] dogCharacteristicsArray = dogCharacteristic.Split(',');
+                    Array.Sort(dogCharacteristicsArray);
                     Console.WriteLine();
                 }
             }
@@ -149,7 +151,7 @@ do
             bool noMatchesDog = true;
             string dogDescription = "";
             
-            // #4 update to "rotating" animation with countdown
+            // #4 update to "rotating" animation with countdown DONE
             string[] searchingIcons = {"|", "/", "-","\\" ,"|","/","-","\\"};
 
             // loop ourAnimals array to search for matching animals
